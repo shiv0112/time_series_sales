@@ -19,4 +19,3 @@ gatherUsageStats = true
 # Default: whatever value is set in server.port.
 serverPort = 8000
 " > ~/.streamlit/config.toml
-stramlit run app.py
